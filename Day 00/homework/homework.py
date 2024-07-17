@@ -47,7 +47,7 @@ pendown()
 
 color("grey")
 begin_fill()
-right(130)
+right(150)
 forward(200)
 left(120)
 forward(200)

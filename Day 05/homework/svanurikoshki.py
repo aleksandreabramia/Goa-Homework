@@ -8,7 +8,7 @@ from turtle import*
 
 #პირველი ნაბიჯი დავხატოთ ქვედა ნაწილი
 
-speed(30)
+speed(50)
 width(10)
 color("grey")
 begin_fill()
@@ -122,6 +122,14 @@ left(45)
 forward(68.8)
 end_fill()
 
+
+penup()
+goto(-20, -250)
+pendown()
+circle(10)
+penup()
+goto(0, -270)
+pendown()
 
 
 
